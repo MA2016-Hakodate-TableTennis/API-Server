@@ -1,0 +1,15 @@
+{
+  "name": "MA2016Post",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "~1.5.0",
+    "body-parser": "~1.15.2"
+  }
+}
